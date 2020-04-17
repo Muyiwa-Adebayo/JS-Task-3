@@ -1,4 +1,4 @@
-let foo = number => {
+const foo = number => {
     let results = []
     
     for(let i=1; i<=number; i++){
